@@ -7,6 +7,7 @@ public class practice2test {
 	public void demo1() {
 		System.out.println("test-->test3");
 	}
+	@Test
 	public void demo2() {
 		System.out.println("thank you");
 	}
