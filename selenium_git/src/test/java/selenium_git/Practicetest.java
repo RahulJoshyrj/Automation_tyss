@@ -14,6 +14,7 @@ public class Practicetest {
 		System.out.println("sample to git hub");
 		System.out.println("eclpise to switch branch in git");
 		System.out.println("thank you");
+		System.out.println("hello");
 	}
 
 }
